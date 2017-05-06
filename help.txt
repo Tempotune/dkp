@@ -1,0 +1,22 @@
+```http
+Admin Only:
+
+!add {User} {amount} - Adds amount to the user.
+
+!sub {User} {amount} - Subtracts amount from the user.
+
+!add all {amount} - Adds amount to all users undeafened in Raid Channel.
+
+!sub all {amount} - Subtracts amount from all users undeafened in Raid Channel.
+
+!adkp {on/off} {amount} - Turns on or off auto dkp adder for raid voice channel, if on then enter amount, points would only be added to undeafened users every hour.
+```
+```
+All users:
+
+!dkp *Optional*{Users} - Tells amount accumulated.
+
+!dice {amount} - rolls randomly from 1 - Amount.
+
+!check - Check how many users are undeafen in Raid Channel.
+```
